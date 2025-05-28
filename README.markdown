@@ -62,7 +62,7 @@ This open-source project is designed for developers, gamers, and educators inter
 We welcome contributions! Fork the repo, create a feature branch, and submit a pull request. For major changes, please open an issue to discuss your ideas.
 
 ## Sponsorship
-Support ChronoCraft’s development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions enable:
+Support ChronoCraft’s development through [GitHub Sponsors](https://github.com/sponsors/adrianzueadum)! Your contributions enable:
 - New puzzle levels and mechanics.
 - Enhanced time-manipulation features.
 - Tutorials for C++ and game development.
